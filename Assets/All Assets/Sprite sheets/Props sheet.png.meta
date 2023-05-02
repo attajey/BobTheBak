@@ -1,0 +1,1410 @@
+fileFormatVersion: 2
+guid: 7b21165afcec28e4389c828951d25d80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Barrel1
+  - first:
+      213: 21300002
+    second: Barrel2
+  - first:
+      213: 21300004
+    second: Sign03
+  - first:
+      213: 21300006
+    second: Arrow
+  - first:
+      213: 21300008
+    second: SighnTextSkull
+  - first:
+      213: 21300010
+    second: SighnTextwarning
+  - first:
+      213: 21300012
+    second: Arrow01
+  - first:
+      213: 21300014
+    second: SighnTextdanger
+  - first:
+      213: 21300016
+    second: SighnTextarrowR
+  - first:
+      213: 21300018
+    second: SighnTextexclamation
+  - first:
+      213: 21300020
+    second: SighnTexKeepOut
+  - first:
+      213: 21300022
+    second: SighnTextExclamationsx2
+  - first:
+      213: 21300024
+    second: SighnTextcaution
+  - first:
+      213: 21300026
+    second: SighnTextarrowL
+  - first:
+      213: 21300028
+    second: SighnTextThisWay
+  - first:
+      213: 21300030
+    second: Sign04
+  - first:
+      213: 21300032
+    second: BulletHole
+  - first:
+      213: 21300034
+    second: SighnTextWrongWay
+  - first:
+      213: 21300036
+    second: Arrow02
+  - first:
+      213: 21300038
+    second: props sheet_27
+  - first:
+      213: 21300040
+    second: props sheet_28
+  - first:
+      213: 21300042
+    second: props sheet_29
+  - first:
+      213: 21300044
+    second: Tomahawk01
+  - first:
+      213: 21300046
+    second: Tomahawk02
+  - first:
+      213: 21300048
+    second: Tomahawk03
+  - first:
+      213: 21300050
+    second: Kaktus01
+  - first:
+      213: 21300052
+    second: Kaktus02
+  - first:
+      213: 21300054
+    second: Kaktus03
+  - first:
+      213: 21300056
+    second: Agava02
+  - first:
+      213: 21300058
+    second: Agava03
+  - first:
+      213: 21300060
+    second: Kaktus04
+  - first:
+      213: 21300062
+    second: Kaktus05
+  - first:
+      213: 21300064
+    second: Agava01
+  - first:
+      213: 21300066
+    second: Kaktus07
+  - first:
+      213: 21300068
+    second: Kaktus08
+  - first:
+      213: 21300070
+    second: props sheet_43
+  - first:
+      213: 21300072
+    second: Rock01
+  - first:
+      213: 21300074
+    second: Rock02
+  - first:
+      213: 21300076
+    second: Rock03
+  - first:
+      213: 21300078
+    second: Rock04
+  - first:
+      213: 21300080
+    second: Rock05
+  - first:
+      213: 21300082
+    second: BullSkull02
+  - first:
+      213: 21300084
+    second: Rock06
+  - first:
+      213: 21300086
+    second: Rock07
+  - first:
+      213: 21300088
+    second: Rock08
+  - first:
+      213: 21300090
+    second: Rock10
+  - first:
+      213: 21300092
+    second: Sign02
+  - first:
+      213: 21300094
+    second: Sign01
+  - first:
+      213: 21300096
+    second: BarrelTop
+  - first:
+      213: 21300098
+    second: Barrel
+  - first:
+      213: 21300100
+    second: Barrel3
+  - first:
+      213: 21300102
+    second: BullSkull
+  - first:
+      213: 21300104
+    second: Kaktus09
+  - first:
+      213: 21300106
+    second: Kaktus06
+  - first:
+      213: 21300108
+    second: Rock09
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Barrel1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1803
+        width: 202
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1800
+        width: 237
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign03
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1443
+        width: 247
+        height: 304
+      alignment: 9
+      pivot: {x: 0.4260768, y: 0.047027588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1953
+        width: 319
+        height: 78
+      alignment: 9
+      pivot: {x: 0.046693236, y: 0.4584945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextSkull
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1921
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextwarning
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1976
+        width: 239
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow01
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1848
+        width: 286
+        height: 72
+      alignment: 9
+      pivot: {x: 0.073626325, y: 0.48501077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextdanger
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1918
+        width: 208
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextarrowR
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1820
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextexclamation
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1772
+        width: 40
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTexKeepOut
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1863
+        width: 255
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextExclamationsx2
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1862
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextcaution
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1805
+        width: 238
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextarrowL
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1747
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextThisWay
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1749
+        width: 244
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign04
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1446
+        width: 244
+        height: 305
+      alignment: 9
+      pivot: {x: 0.5280617, y: 0.05849049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulletHole
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1526
+        width: 172
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SighnTextWrongWay
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1693
+        width: 303
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow02
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1443
+        width: 331
+        height: 244
+      alignment: 9
+      pivot: {x: 0.033785447, y: 0.85823935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomahawk01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1041
+        width: 235
+        height: 393
+      alignment: 9
+      pivot: {x: 0.2701434, y: 0.87749237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomahawk02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1019
+        width: 197
+        height: 427
+      alignment: 9
+      pivot: {x: 0.21035798, y: 0.72984123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomahawk03
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1038
+        width: 195
+        height: 385
+      alignment: 9
+      pivot: {x: 0.6482569, y: 0.7924605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaktus01
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1230
+        width: 219
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaktus02
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1021
+        width: 247
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaktus03
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1048
+        width: 244
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agava02
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1210
+        width: 253
+        height: 201
+      alignment: 9
+      pivot: {x: 0.56481934, y: 0.17364593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agava03
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1272
+        width: 183
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5685281, y: 0.15834808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaktus04
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 204
+        height: 554
+      alignment: 9
+      pivot: {x: 0.5141862, y: 0.029856823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaktus05
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 418
+        width: 182
+        height: 572
+      alignment: 9
+      pivot: {x: 0.55830383, y: 0.039592024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agava01
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 996
+        width: 288
+        height: 230
+      alignment: 9
+      pivot: {x: 0.563641, y: 0.1644648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaktus07
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 435
+        width: 346
+        height: 558
+      alignment: 9
+      pivot: {x: 0.5223045, y: 0.055701252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaktus08
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 477
+        width: 351
+        height: 526
+      alignment: 9
+      pivot: {x: 0.458775, y: 0.043343373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock01
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 171
+        width: 215
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock02
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 185
+        width: 320
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock03
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 201
+        width: 252
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock04
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 208
+        width: 263
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock05
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 251
+        width: 301
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullSkull02
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 0
+        width: 419
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock06
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 313
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock07
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 18
+        width: 220
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock08
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 19
+        width: 254
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock10
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 0
+        width: 297
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign02
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1471
+        width: 292
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sign01
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1469
+        width: 290
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelTop
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1520
+        width: 215
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1768
+        width: 202
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1778
+        width: 202
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BullSkull
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 848
+        width: 438
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaktus09
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 430
+        width: 328
+        height: 387
+      alignment: 9
+      pivot: {x: 0.5411749, y: 0.053811558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaktus06
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 419
+        width: 329
+        height: 581
+      alignment: 9
+      pivot: {x: 0.45601833, y: 0.055025663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock09
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 28
+        width: 323
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Agava01: 21300064
+      Agava02: 21300056
+      Agava03: 21300058
+      Arrow: 21300006
+      Arrow01: 21300012
+      Arrow02: 21300036
+      Barrel: 21300098
+      Barrel1: 21300000
+      Barrel2: 21300002
+      Barrel3: 21300100
+      BarrelTop: 21300096
+      BullSkull: 21300102
+      BullSkull02: 21300082
+      BulletHole: 21300032
+      Kaktus01: 21300050
+      Kaktus02: 21300052
+      Kaktus03: 21300054
+      Kaktus04: 21300060
+      Kaktus05: 21300062
+      Kaktus06: 21300106
+      Kaktus07: 21300066
+      Kaktus08: 21300068
+      Kaktus09: 21300104
+      Rock01: 21300072
+      Rock02: 21300074
+      Rock03: 21300076
+      Rock04: 21300078
+      Rock05: 21300080
+      Rock06: 21300084
+      Rock07: 21300086
+      Rock08: 21300088
+      Rock09: 21300108
+      Rock10: 21300090
+      SighnTexKeepOut: 21300020
+      SighnTextExclamationsx2: 21300022
+      SighnTextSkull: 21300008
+      SighnTextThisWay: 21300028
+      SighnTextWrongWay: 21300034
+      SighnTextarrowL: 21300026
+      SighnTextarrowR: 21300016
+      SighnTextcaution: 21300024
+      SighnTextdanger: 21300014
+      SighnTextexclamation: 21300018
+      SighnTextwarning: 21300010
+      Sign01: 21300094
+      Sign02: 21300092
+      Sign03: 21300004
+      Sign04: 21300030
+      Tomahawk01: 21300044
+      Tomahawk02: 21300046
+      Tomahawk03: 21300048
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
