@@ -6,14 +6,22 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private CharacterController2D controller;
     [SerializeField] private float runSpeed = 40f;
+    [SerializeField] private Animator animator;
 
     private float horizMove = 0f;
     private bool isJumping = false;
     private bool isCrouching = false;
 
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
+
     void Update()
     {
         horizMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+
+        animator.SetFloat("Speed", Mathf.Abs(horizMove));
 
         if (Input.GetButtonDown("Jump"))
         {
@@ -35,6 +43,6 @@ public class PlayerMovement : MonoBehaviour
         // Move the character
         controller.Move(horizMove * Time.fixedDeltaTime, isCrouching, isJumping);
         isJumping = false;
-        
+
     }
 }
