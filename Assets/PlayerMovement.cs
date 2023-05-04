@@ -32,11 +32,13 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("Crouch"))
         {
             isCrouching = true;
+
         }
         else if (Input.GetButtonUp("Crouch"))
         {
             isCrouching = false;
         }
+            Debug.Log(isCrouching);
     }
 
     public void OnLanding()

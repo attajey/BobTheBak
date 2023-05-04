@@ -7,11 +7,21 @@ public class Enemy : MonoBehaviour
 {
     [SerializeField] private int health = 100;
 
-    [SerializeField] private GameObject deathEffect;
+    //[SerializeField] private GameObject deathEffect;
 
     [SerializeField] private GameObject bulletPrefab;
     [SerializeField] private Transform firePoint;
     private float timer;
+
+    [SerializeField] private int maxHealth = 100;
+    [SerializeField] private int currentHealth = 100;
+    [SerializeField] private Healthbar healthbar;
+
+    private void Start()
+    {
+        healthbar.SetMaxHealth(maxHealth);
+
+    }
 
     private void Update()
     {
@@ -31,6 +41,8 @@ public class Enemy : MonoBehaviour
     public void TakeDamage(int damage)
     {
         health -= damage;
+        currentHealth -= damage;
+        healthbar.SetHealth(currentHealth);
 
         if (health <= 0)
         {
@@ -40,7 +52,7 @@ public class Enemy : MonoBehaviour
 
     private void Die()
     {
-        Instantiate(deathEffect, transform.position, Quaternion.identity);
+        //Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
         //throw new NotImplementedException();
     }
