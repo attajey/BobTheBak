@@ -9,6 +9,25 @@ public class Enemy : MonoBehaviour
 
     [SerializeField] private GameObject deathEffect;
 
+    [SerializeField] private GameObject bulletPrefab;
+    [SerializeField] private Transform firePoint;
+    private float timer;
+
+    private void Update()
+    {
+        timer += Time.deltaTime;
+        if (timer > 2)
+        {
+            timer = 0;
+            Shoot();
+        }
+    }
+
+    private void Shoot()
+    {
+        Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+    }
+
     public void TakeDamage(int damage)
     {
         health -= damage;
