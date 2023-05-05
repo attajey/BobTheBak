@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
 
     private float horizMove = 0f;
     private bool isJumping = false;
-    private bool isCrouching = false;
+    [SerializeField] private bool isCrouching = false;
 
     void Start()
     {
@@ -38,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
         {
             isCrouching = false;
         }
-            Debug.Log(isCrouching);
+        Debug.Log(isCrouching);
     }
 
     public void OnLanding()
@@ -46,7 +46,7 @@ public class PlayerMovement : MonoBehaviour
         animator.SetBool("IsJumping", false);
     }
 
-    public void OnCrouching(bool isCrouching)
+    public void OnCrouching()
     {
         animator.SetBool("isCrouching", isCrouching);
     }
