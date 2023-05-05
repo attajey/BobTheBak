@@ -44,6 +44,7 @@ public class Weapon : MonoBehaviour
     void PlayRandomGunSound()
     {
         audioSource.clip = gunSfx[UnityEngine.Random.Range(0, gunSfx.Length)];
+        audioSource.volume = 0.1f;
         audioSource.Play();
     }
 }
