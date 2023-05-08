@@ -8,7 +8,7 @@ public class GuitarPick : MonoBehaviour, ICollectible
     public static event Action OnGuitarPickCollected;
     public static int collected = 0;
 
-    [SerializeField] private AudioSource audioSource;
+    //[SerializeField] private AudioSource audioSource;
     //[SerializeField] private AudioClip pickUpSfx;
 
     //public SpriteRenderer spriteRenderer;
@@ -16,7 +16,7 @@ public class GuitarPick : MonoBehaviour, ICollectible
 
     private void Start()
     {
-        audioSource = GetComponent<AudioSource>();
+        //audioSource = GetComponent<AudioSource>();
         //audioSource.enabled= true;
         //spriteRenderer = GetComponent<SpriteRenderer>();
         //ChooseRandomSprite();
@@ -26,7 +26,7 @@ public class GuitarPick : MonoBehaviour, ICollectible
     {
         collected++;
         //audioSource.clip= pickUpSfx;
-        audioSource.Play();
+        //audioSource.Play();
         OnGuitarPickCollected?.Invoke();
         Destroy(gameObject);
     }
